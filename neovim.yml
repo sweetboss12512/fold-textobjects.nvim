@@ -1,0 +1,9 @@
+globals:
+  vim:
+    any: true
+
+  require:
+    any: true
+
+  print:
+    any: true
